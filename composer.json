@@ -22,7 +22,7 @@
   },
   "autoload": {
     "psr-4": {
-      "AdminLTE\\": "src"
+      "AclLinkHelper\\": "src"
     }
   },
   "support": {
