@@ -21,7 +21,7 @@ use Cake\Routing\Router;
 use Cake\View\Helper;
 use Cake\View\View;
 
-class AclHelper extends Helper
+class AclLinkHelper extends Helper
 {
     public $helpers    = ['Form'];
     
